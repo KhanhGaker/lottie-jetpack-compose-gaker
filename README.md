@@ -83,7 +83,3 @@ fun MainScreen() {
     }
 }
 ```
-
-# Video Demo
-
-![](video.gif)
