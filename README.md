@@ -86,4 +86,4 @@ fun MainScreen() {
 
 # Video Demo
 
-![](video.webm)
+![](video.mp4)
