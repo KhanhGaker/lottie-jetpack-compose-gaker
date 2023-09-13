@@ -86,4 +86,4 @@ fun MainScreen() {
 
 # Video Demo
 
-![](video.mp4)
+![](video.gif)
